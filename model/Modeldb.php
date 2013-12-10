@@ -1,8 +1,8 @@
 <?php
 /**
- * Description of Jobodb
+ * Description of Modeldb
  *
- * @author Crisanto González <cgonzalez@jobomas.com>
+ * @author Yusniel Brocard <brocard@gmail.com>
  */
 class Modeldb extends db {
     
