@@ -2,7 +2,7 @@
 /**
  * Description of db
  *
- * @author Crisanto González <cgonzalez@jobomas.com>
+ * @author Yusniel Brocard <brocard@gmail.com>
  */
 class db {
     protected $conexiones = array(
